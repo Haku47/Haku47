@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Alviensyah%20Mohammad&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Deaf%20Developer%20%7C%20Teknik%20Informatika%20FILKOM%20UB%20%7C%20Linux%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Alviensyah%20Mohammad&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Deaf%20Developer%20%7C%20Informatics%20Engineering%20FILKOM%20UB%20%7C%20Linux%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/Haku47">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=620&lines=Deaf+Developer+%F0%9F%A4%9F;Teknik+Informatika+-+FILKOM+UB+%F0%9F%8E%93;Web+%26+Mobile+App+Enthusiast+%F0%9F%92%BB;Linux+Enthusiast+%F0%9F%90%A7;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=620&lines=Deaf+Developer+%F0%9F%A4%9F;Informatics+Engineering+-+FILKOM+UB+%F0%9F%8E%93;Web+%26+Mobile+App+Enthusiast+%F0%9F%92%BB;Linux+Enthusiast+%F0%9F%90%A7;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
